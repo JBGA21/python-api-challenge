@@ -130,4 +130,4 @@ dmypy.json
 
 # apiconfiguration
 *config.py
-.DS_Store
+.DS_Store.DS_Store
